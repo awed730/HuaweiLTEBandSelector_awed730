@@ -1,7 +1,7 @@
 Huawei Mobile WiFi LTE Band Selector
 
 Enable LTE band selection within your browser. 
-
+#https://www.youtube.com/watch?v=91rQVxHyZqQ
 # Working Environment
 ## Supported devices
 Tested on these Huawei devices.
